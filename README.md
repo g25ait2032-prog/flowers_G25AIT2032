@@ -70,11 +70,13 @@ Vocabulary: `Krishna, River, Bridge, Godavari, Barrage, Delta` (6 words)
 ## Run it
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo>
+## Run it
+git clone https://github.com/g25ait2032-prog/flowers_G25AIT2032.git
+cd flowers_G25AIT2032
 pip install -r requirements.txt
 jupyter notebook flowers_G25AIT2032.ipynb
 ```
+
 
 ## Repository structure
 
